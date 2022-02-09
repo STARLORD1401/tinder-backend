@@ -1,13 +1,21 @@
 {
   "name": "tinder-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "backend to tinder clone",
   "main": "server.js",
   "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STARLORD1401/tinder-backend.git"
+  },
+  "author": "shreyas joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/STARLORD1401/tinder-backend/issues"
+  },
+  "homepage": "https://github.com/STARLORD1401/tinder-backend#readme"
 }
